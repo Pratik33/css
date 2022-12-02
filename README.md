@@ -34,18 +34,18 @@ learning :
           width: 400px;
         }
         
-        with box-sizing : border-box, it will include all border, padding and content size.
+    with box-sizing : border-box, it will include all border, padding and content size.
         
-      
-          ![image](https://user-images.githubusercontent.com/52494739/205319893-8c512f65-1e2b-4bed-8466-99507c276e9d.png)
+   ![image](https://user-images.githubusercontent.com/52494739/205321653-b5e38961-d241-4a93-9659-f1a56ed45072.png)   
           
           
-         400 = 298px(content) + 48px + 48px(padding) + 3px+ 3px;(border)   
-     
-        with box-sizing : content-box, it will include only content width. (here h1's overall size/ length will get increase.)
+   400 = 298px(content) + 48px + 48px(padding) + 3px+ 3px;(border)   
+
+   with box-sizing : content-box, it will include only content width. (here h1's overall size/ length will get increase.)
         
         
-        ![image](https://user-images.githubusercontent.com/52494739/205320397-67eafad6-19f1-4245-85b2-edf5618e5078.png)
+![image](https://user-images.githubusercontent.com/52494739/205321525-08453c34-051c-4842-9a23-6b979da60d29.png)
+
 
 
 
